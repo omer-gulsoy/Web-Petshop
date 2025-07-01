@@ -34,7 +34,7 @@ and register or log in to make purchases.
 
 ### Programming Languages and Technologies ​​I Used:
 
-Frontend:  - HTML
+Frontend:  - HTML <br>
            - CSS
            - JavaScript
            - Blade Templating Engine (Laravel)
