@@ -34,14 +34,14 @@ and register or log in to make purchases.
 
 ### Programming Languages and Technologies ​​I Used:
 
-Frontend:  - HTML <br>
-           - CSS
-           - JavaScript
-           - Blade Templating Engine (Laravel)
+Frontend:  <br>- HTML <br>
+           <br>- CSS
+           <br>- JavaScript
+           <br>- Blade Templating Engine (Laravel)
 
-Backend:   - PHP (Laravel Framework)
+Backend:   <br>- PHP (Laravel Framework)
 
-Database: - MySQL
+Database: <br>- MySQL
 
 > This project was developed to support both pet owners and petshop administrators, and it is planned to be improved with more features in the future.
 
@@ -82,14 +82,14 @@ inceleyebilir, ürün detaylarını görüntüleyebilir ve evcil hayvan bakımı
 
 ### Kullanılan Diller:
 
-Frontend:  - HTML
-           - CSS
-           - JavaScript
-           - Blade Templating Engine (Laravel)
+Frontend:  <br>- HTML
+           <br>- CSS
+           <br>- JavaScript
+           <br>- Blade Templating Engine (Laravel)
 
-Backend:   - PHP (Laravel Framework)
+Backend:   <br>- PHP (Laravel Framework)
 
-Database: - MySQL
+Database: <br>- MySQL
 
 > Bu proje, hem evcil hayvan sahiplerinin hem de petshop işletmecilerinin ihtiyaçlarını karşılamak üzere geliştirilmiştir. Gelecekte daha fazla özellik eklenerek geliştirilmeye devam edecektir.
 
